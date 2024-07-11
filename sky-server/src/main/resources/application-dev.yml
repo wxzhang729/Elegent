@@ -11,3 +11,7 @@ sky:
     accessKeyId: 
     accessKeySecret: 
     bucketName: sky-itcast-729
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
