@@ -7,10 +7,10 @@ sky:
     username: root
     password: 1234
   alioss:
-    endpoint: oss-cn-hangzhou.aliyuncs.com
+    endpoint:
     accessKeyId:
     accessKeySecret:
-    bucketName: sky-itcast-729
+    bucketName:
   redis:
     host: localhost
     port: 6379
